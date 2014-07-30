@@ -29,7 +29,7 @@ UsedLibrary="C:/Program Files (x86)/EAGLE-6.6.0/lbr/SparkFun/SparkFun-Sensors.lb
 
 [Win_1]
 Type="Control Panel"
-Loc="652 321 1251 720"
+Loc="594 329 1193 728"
 State=2
 Number=0
 
